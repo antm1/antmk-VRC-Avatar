@@ -1,7 +1,7 @@
 # antmk-VRC-Avatar
 Avatar made from scratch to learn Blender. Welcome to use. 
 
-twobytworobotpallet is the image for texture.
+twobytworobotpallet is the image for texture. (Added OtherTextureSizes folder for different size textures to be easier to customize.)
 
 Meged FBX is ready to import into unity. 
 (You will have to add VRC avatar descriptor,
