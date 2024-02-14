@@ -3,12 +3,15 @@ Avatar made from scratch to learn Blender. Welcome to use.
 
 twobytworobotpallet is the image for texture. (Added OtherTextureSizes folder for different size textures to be easier to customize.)
 
-Meged FBX is ready to import into unity. 
+Merged FBX is ready to import into unity. 
+
+For VRChat:
 (You will have to add VRC avatar descriptor,
 would recommend to set camera height to 1.65.
 Need to use autofix the couple problems in the vrc sdk control panel.
 For quest compatibility you will need to make a VRC/Mobile/Standard-Lite material.)
-!!Warning!! first time you sit down in a world you will be sent to the sky, each world. After first seat in world works fine.
+~~!!Warning!! first time you sit down in a world you will be sent to the sky, each world. After first seat in world works fine.~~
+(thanks to GhostRobot from Chillout VR for figurint out that my armature wasn't scaled properly on the export settings from blender to FBX)
 
 Merged is model ready to be exported into FBX to import into Unity
 
@@ -18,3 +21,5 @@ in order to Join objects.
 -would recommend making normals visible
 -click on a single face on each object with flipped normals and Ctrl + L to select all linked faces
 -go to mesh -> normals -> flip normals
+When exporting to FBX make sure to set the Transform settings to FBX Units in the window that pops up after
+you hit export to FBX in the [file] drop down menu.
