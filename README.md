@@ -46,5 +46,5 @@ in order to Join objects.
 -would recommend making normals visible
 -click on a single face on each object with flipped normals and Ctrl + L to select all linked faces
 -go to mesh -> normals -> flip normals
-When exporting to FBX make sure to set the Transform settings to FBX All in the window that pops up after
-you hit export to FBX in the [file] drop down menu.
+When exporting to FBX make sure to set the Transform settings to FBX All and to turn off leaf bones in the window that pops up after
+you hit export to FBX in the [file] drop down menu. (Learned from Tejler's suggestions in Chilout VR)
